@@ -1,5 +1,5 @@
-from py2neo import Graph, Node, Relationship
 import pandas as pd
+from py2neo import Graph, Node, Relationship
 
 test_graph = Graph("http://localhost:7474", auth = ('neo4j','password'), name = 'neo4j')
 
@@ -8,7 +8,7 @@ test_graph = Graph("http://localhost:7474", auth = ('neo4j','password'), name = 
 # relation1 = Relationship(tn1,"firend",tn2)
 test_graph.delete_all()
 
-data = pd.read_csv('data\data.csv')
+data = pd.read_csv('data/data.csv')
 
 x = data.head(0)
 y = data.columns[0]
@@ -45,3 +45,4 @@ for i in range(0, 3):
 test_graph.run('MATCH (n: City) WITH n.name AS name, COLLECT(n) AS nodelist, COUNT(*) AS count WHERE count>1 CALL apoc.refactor.mergeNodes(nodelist) YIELD node RETURN node')
 test_graph.run('MATCH (n: Job) WITH n.name AS name, COLLECT(n) AS nodelist, COUNT(*) AS count WHERE count>1 CALL apoc.refactor.mergeNodes(nodelist) YIELD node RETURN node')
 
+# test_graph.delete_all()
