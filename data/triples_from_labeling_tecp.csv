@@ -1,0 +1,364 @@
+﻿entity1,entity1type,entity2,entit2type,relation
+tasks,test,Fragile-X,problem,TeCP
+pilot screening survey,test,retarded,problem,TeCP
+study,test,mutation,problem,TeCP
+study,test,mental retardation,problem,TeCP
+screening,test,mutation,problem,TeCP
+study,test,fragile X syndrome,problem,TeCP
+systematic screening,test,mentally retarded,problem,TeCP
+genetic counseling,test,mentally retarded,problem,TeCP
+Family studies,test,autism,problem,TeCP
+Family studies,test,syndrome,problem,TeCP
+association study,test,markers,problem,TeCP
+chi 2 analysis,test,DXS287,problem,TeCP
+chi 2 analysis,test,marker,problem,TeCP
+association study,test,markers,problem,TeCP
+association study,test,infantile autism,problem,TeCP
+collaborative study,test,fragile X,problem,TeCP
+collaborative study,test,fragile X,problem,TeCP
+collaborative study,test,fragile X,problem,TeCP
+molecular test,test,molecular cloning,problem,TeCP
+demonstration,test,fragile X syndrome,problem,TeCP
+molecular test,test,causative mutation,problem,TeCP
+placebo-controlled crossover study,test,Fragile X,problem,TeCP
+placebo-controlled crossover study,test,fra(x,problem,TeCP
+standardized psychometric testing,test,fra(X,problem,TeCP
+longitudinal study,test,fra(X,problem,TeCP
+Investigations,test,fragile X syndrome,problem,TeCP
+study,test,fra(X) syndrome,problem,TeCP
+crossover design,test,infantile autism,problem,TeCP
+crossover design,test,fragile-X syndrome,problem,TeCP
+study,test,fragile-X syndrome,problem,TeCP
+placebo study,test,fragile X syndrome,problem,TeCP
+double-blind design study,test,fragile X,problem,TeCP
+study,test,mental impairment,problem,TeCP
+study,test,fra(X,problem,TeCP
+Cytogenetic studies,test,fra(X),problem,TeCP
+experimental trial,test,fra(X) syndrome,problem,TeCP
+study,test,fra(X) syndrome,problem,TeCP
+test,test,fragile X syndrome,problem,TeCP
+blind study,test,fragile X syndrome,problem,TeCP
+working memory,test,FXTAS,problem,TeCP
+crossover phase 2 trial,test,behavioral symptoms,problem,TeCP
+crossover phase 2 trial,test,FXS,problem,TeCP
+phase 2b,test,FXS,problem,TeCP
+mavoglurant,treatment,FXS,problem,TeCP
+Behavior Checklist-Community Edition,test,behavioral symptoms,problem,TeCP
+FXS-specific algorithm,test,behavioral symptoms,problem,TeCP
+behavioral symptoms,problem,treatment,treatment,TeCP
+mGluR theory,test,FXS,problem,TeCP
+Positron Emission Topography,test,fragile X,problem,TeCP
+PET,test,fragile X,problem,TeCP
+[11C]flumazenil,test,fragile X,problem,TeCP
+PET,test,fragile X,problem,TeCP
+assessed,test,daily functioning,problem,TeCP
+caregiver scales,test,daily functioning,problem,TeCP
+evaluation,test,fragile X syndrome,problem,TeCP
+Safety assessments,test,adverse events,problem,TeCP
+assessments,test,fragile X syndrome,problem,TeCP
+balance confidence,problem,psychiatric symptom questionnaires,test,TeCP
+visual episodic memory,test,cognition,problem,TeCP
+visual episodic memory,test,cognition,problem,TeCP
+Mood Scale,test,Anxiety,problem,TeCP
+ADAMS,test,Anxiety,problem,TeCP
+Mood Scale,test,Depression,problem,TeCP
+Behavior Checklist-Community,test,FXS,problem,TeCP
+contingency naming task,test,fragile X syndrome,problem,TeCP
+behavior checklist,test,fragile X syndrome,problem,TeCP
+concomitant,test,behavior,problem,TeCP
+standardized psychometric testing,test,fra(X,problem,TeCP
+test,test,fragile X syndrome,problem,TeCP
+caregiver scales,test,FXS,problem,TeCP
+ABC-C,test,problem behavior,problem,TeCP
+ADAMS subscales,test,FXS,problem,TeCP
+contingency naming task,test,fragile X syndrome,problem,TeCP
+behavior checklist,test,fragile X syndrome,problem,TeCP
+Psychiatric State-learning Disabilities assessment,test,dementia,problem,TeCP
+PPS-LD,test,dementia,problem,TeCP
+magnetic resonance imaging,test,FXTAS,problem,TeCP
+MSEL,test,autism spectrum disorder,problem,TeCP
+neuropsychological testing,test,FXTAS,problem,TeCP
+WAIS,test,FXTAS,problem,TeCP
+neuropsychological testing,test,FXTAS,problem,TeCP
+WAIS,test,FXTAS,problem,TeCP
+Yale-Brown Obsessive Compulsive Scale,test,Developmental Disorders,problem,TeCP
+ANA,test,adverse events,problem,TeCP
+double-blind,test,FXS,problem,TeCP
+placebo-controlled study,test,FXS,problem,TeCP
+prospective pilot study,test,FXS.Riluzole,problem,TeCP
+Yale-Brown Obsessive Compulsive Scale,test,Developmental Disorders,problem,TeCP
+open-label study,test,FXS,problem,TeCP
+FXS,problem,two-treatment,test,TeCP
+crossover study,test,FXS,problem,TeCP
+Aberrant,problem,Behavior Checklist-Community Edition,test,TeCP
+exploratory analysis,test,FMR1,problem,TeCP
+Psychiatric State-learning Disabilities assessment,test,dementia,problem,TeCP
+Psychiatric State-learning Disabilities assessment,test,Down,problem,TeCP
+Psychiatric State-learning Disabilities assessment,test,DS,problem,TeCP
+Psychiatric State-learning Disabilities assessment,test,Williams,problem,TeCP
+Psychiatric State-learning Disabilities assessment,test,WS,problem,TeCP
+Psychiatric State-learning Disabilities assessment,test,Fragile X syndrome,problem,TeCP
+Psychiatric State-learning Disabilities assessment,test,FXS,problem,TeCP
+PPS-LD,test,dementia,problem,TeCP
+PPS-LD,test,Down,problem,TeCP
+PPS-LD,test,DS,problem,TeCP
+PPS-LD,test,Williams,problem,TeCP
+PPS-LD,test,WS,problem,TeCP
+PPS-LD,test,Fragile X syndrome,problem,TeCP
+Brain activity,problem,semantic memory processing,test,TeCP
+N400 word,problem,semantic memory processing,test,TeCP
+FXS-specific algorithm,test,behavioral symptoms,problem,TeCP
+Positron Emission Topography,test,GABAA receptors,problem,TeCP
+PET,test,GABAA receptors,problem,TeCP
+Positron Emission Topography,test,fragile X,problem,TeCP
+PET,test,fragile X,problem,TeCP
+Positron Emission Topography,test,GABAA receptors,problem,TeCP
+PET,test,GABAA receptors,problem,TeCP
+PET,test,fragile X,problem,TeCP
+PET,test,fragile X,problem,TeCP
+N400 repetition,test,FXTAS,problem,TeCP
+emotion-potentiated startle,test,FXS,problem,TeCP
+emotion-potentiated startle,test,developmental disability,problem,TeCP
+emotion-potentiated startle,test,FXS,problem,TeCP
+emotion-potentiated startle,test,DD,problem,TeCP
+blood analysis,test,FXS,problem,TeCP
+behavioral rating scales,test,Fragile X syndrome,problem,TeCP
+behavioral rating scale scores,test,hyperkinesis,problem,TeCP
+Pediatric Anxiety Rating Scale-Revised,test,FXS,problem,TeCP
+PARS-R,test,FXS,problem,TeCP
+PARS-R,test,anxiety,problem,TeCP
+PARS-R,test,anxiety,problem,TeCP
+PARS-R,test,FXS,problem,TeCP
+RBANS,test,FMRP,problem,TeCP
+RBANS,test,schizophrenia,problem,TeCP
+RBANS,test,FMRP,problem,TeCP
+Visual Analog Scale,test,anxiety,problem,TeCP
+L-[1-(11)C]leucine positron emission tomography,test,rCPS,problem,TeCP
+PET,test,rCPS,problem,TeCP
+ABC-Social Avoidance scale,test,fragile X syndrome,problem,TeCP
+gene expression,test,fragile X syndrome,problem,TeCP
+gene expression microarray analysis,test,fragile X syndrome,problem,TeCP
+gene expression,test,disturbed genes,problem,TeCP
+gene expression,test,fragile X syndrome,problem,TeCP
+gene expression,test,fragile X syndrome,problem,TeCP
+gene expression microarray analysis,test,disturbed genes,problem,TeCP
+gene expression microarray analysis,test,fragile X syndrome,problem,TeCP
+gene expression microarray analysis,test,fragile X syndrome,problem,TeCP
+genome microarrays,test,fragile X syndrome,problem,TeCP
+quantitative reverse transcription polymerase chain reaction,test,fragile X syndrome,problem,TeCP
+quantitative reverse transcription polymerase chain reaction,test,fragile X syndrome,problem,TeCP
+quantitative reverse transcription polymerase chain reaction,test,fragile X syndrome,problem,TeCP
+control males,test,fragile X syndrome,problem,TeCP
+control males,test,fragile X syndrome,problem,TeCP
+analyses,test,alterations,problem,TeCP
+analyses,test,fragile X syndrome,problem,TeCP
+inhibition,test,mutation fragile X syndrome,problem,TeCP
+inhibition,test,FXS,problem,TeCP
+auditory continuous performance tests,test,mutation fragile X syndrome,problem,TeCP
+CPTs,test,mutation fragile X syndrome,problem,TeCP
+auditory continuous performance tests,test,FXS,problem,TeCP
+CPTs,test,FXS,problem,TeCP
+Mental age,test,FXS,problem,TeCP
+MA,test,FXS,problem,TeCP
+CPTs,test,FXS,problem,TeCP
+performance,test,FXS,problem,TeCP
+CPTs,test,FXS,problem,TeCP
+MA,test,FXS,problem,TeCP
+CPTs,test,FXS,problem,TeCP
+response inhibition,test,FXS,problem,TeCP
+task time,test,FXS,problem,TeCP
+CPTs,test,declines,problem,TeCP
+CPT,test,ADHD-hyperactive type,problem,TeCP
+visual CPT,test,FXS,problem,TeCP
+CPT,test,FXS,problem,TeCP
+Risk criteria,test,Autism,problem,TeCP
+Risk criteria,test,fragile X syndrome,problem,TeCP
+Risk criteria,test,FXS,problem,TeCP
+Risk criteria,test,autism,problem,TeCP
+CHAT,test,Autism,problem,TeCP
+modified risk criteria,test,Autism,problem,TeCP
+Denver Criteria,test,Autism,problem,TeCP
+CHAT,test,fragile X syndrome,problem,TeCP
+CHAT,test,FXS,problem,TeCP
+CHAT,test,autism,problem,TeCP
+modified risk criteria,test,fragile X syndrome,problem,TeCP
+modified risk criteria,test,FXS,problem,TeCP
+modified risk criteria,test,autism,problem,TeCP
+Denver Criteria,test,fragile X syndrome,problem,TeCP
+Denver Criteria,test,FXS,problem,TeCP
+Denver Criteria,test,autism,problem,TeCP
+CHAT,test,autism,problem,TeCP
+CHAT,test,FXS,problem,TeCP
+CHAT,test,autism,problem,TeCP
+Denver Criteria,test,autism,problem,TeCP
+CHAT,test,FXS,problem,TeCP
+Denver Criteria,test,FXS,problem,TeCP
+CHAT,test,autism,problem,TeCP
+Denver Criteria,test,FXS,problem,TeCP
+placebo-controlled clinical trial,test,fragile X syndrome,problem,TeCP
+placebo-controlled clinical trial,test,FXS,problem,TeCP
+clinical trial,test,FXS,problem,TeCP
+clinical trial,test,FXS,problem,TeCP
+Aberrant Behavior Checklist-Community (ABC-C,test,problem behavior,problem,TeCP
+ABC-C,test,problem behavior,problem,TeCP
+Aberrant Behavior Checklist-Community (ABC-C,test,irritability,problem,TeCP
+Treatment Acceptability Rating Form-Revised,test,irritability,problem,TeCP
+TARF-R,test,irritability,problem,TeCP
+ABC-C,test,irritability,problem,TeCP
+ADAMS,test,Depression,problem,TeCP
+Behavior Checklist-Community,test,FXS,problem,TeCP
+ADAMS subscales,test,depressed mood,problem,TeCP
+ADAMS subscales,test,anxiety,problem,TeCP
+ADAMS subscales,test,FXS,problem,TeCP
+Human-targeted treatment trials,test,behavioral measures,problem,TeCP
+double-blind,test,FXS,problem,TeCP
+placebo-controlled crossover treatment trial,test,FXS,problem,TeCP
+placebo,test,FXS,problem,TeCP
+ERP,test,FXS,problem,TeCP
+ERP,test,FXS,problem,TeCP
+ERP,test,FXS,problem,TeCP
+ERPs,test,FXS,problem,TeCP
+RBANS,test,FMRP,problem,TeCP
+RBANS,test,schizophrenia,problem,TeCP
+blood biomarker,test,brain-derived neurotrophic factor,problem,TeCP
+blood biomarker,test,BDNF,problem,TeCP
+open-label,test,fragile X syndrome,problem,TeCP
+open-label,test,FXS,problem,TeCP
+open-label,test,FXS,problem,TeCP
+human studies,test,fragile X syndrome,problem,TeCP
+human studies,test,FXS,problem,TeCP
+human studies,test,FXS,problem,TeCP
+double-blind,test,FXS,problem,TeCP
+placebo-controlled,test,FXS,problem,TeCP
+crossover trial,test,FXS,problem,TeCP
+Clinical Global Impression Scale-Improvement,test,mood-related behaviors,problem,TeCP
+Visual Analog Scale,test,anxiety,problem,TeCP
+L-[1-(11)C]leucine positron emission tomography,test,FXS,problem,TeCP
+PET,test,FXS,problem,TeCP
+double-blind,test,fragile X syndrome,problem,TeCP
+placebo-controlled crossover study,test,fragile X syndrome,problem,TeCP
+ABC-Social Avoidance scale,test,fragile X syndrome,problem,TeCP
+ABC-Social Avoidance scale,test,social impairment,problem,TeCP
+fluorescent PCR,test,fragile X mental retardation-1,problem,TeCP
+fluorescent PCR,test,amelogenin,problem,TeCP
+PGD,test,single gene disorders,problem,TeCP
+Yale-Brown Obsessive Compulsive Scale,test,Developmental Disorders,problem,TeCP
+open-label study,test,FXS,problem,TeCP
+open-label study,test,FXS,problem,TeCP
+double-blind,test,behavioral symptoms,problem,TeCP
+crossover study,test,behavioral symptoms,problem,TeCP
+crossover study,test,FXS,problem,TeCP
+Behaviour Checklist-Community Edition,test,Irritability,problem,TeCP
+Behaviour Checklist-Community Edition,test,behaviour,problem,TeCP
+ABC-C subscales,test,Irritability,problem,TeCP
+clinical global improvement scale,test,Irritability,problem,TeCP
+visual analog scale,test,behaviour,problem,TeCP
+placebo-controlled trial,test,FXS,problem,TeCP
+double blind,test,sleep problems,problem,TeCP
+placebo-controlled,test,sleep problems,problem,TeCP
+crossover design,test,sleep problems,problem,TeCP
+Actiwatch,test,night awakenings,problem,TeCP
+sleep diaries,test,night awakenings,problem,TeCP
+DNA testing,test,ASD,problem,TeCP
+pilot open label,test,fragile X syndrome,problem,TeCP
+pilot open label,test,fragile X,problem,TeCP
+single dose trial,test,fragile X syndrome,problem,TeCP
+single dose trial,test,fragile X,problem,TeCP
+(1)H magnetic resonance spectroscopy,test,Disruption,problem,TeCP
+pilot open-label trial,test,cognitive-behavioral function,problem,TeCP
+placebo-controlled trial,treatment,fragile X syndrome,problem,TeCP
+placebo-controlled trial,treatment,FXS,problem,TeCP
+MSEL,test,autism spectrum disorder,problem,TeCP
+outcome measures,test,FXS,problem,TeCP
+study,test,hypertension,problem,TeCP
+study,test,hypothyroidism,problem,TeCP
+study,test,diabetes,problem,TeCP
+study,test,cancer,problem,TeCP
+retrospective controlled study,test,PC,problem,TeCP
+retrospective controlled study,test,X-associated tremor ataxia syndrome,problem,TeCP
+retrospective controlled study,test,FXTAS,problem,TeCP
+neuropsychological testing,test,FXTAS,problem,TeCP
+neuropsychological testing,test,FXTAS,problem,TeCP
+WAIS,test,FXTAS,problem,TeCP
+nonparametric repeated-measures technique,test,sleep problems,problem,TeCP
+nonparametric repeated-measures technique,test,ASD,problem,TeCP
+night sleep,test,ASD,problem,TeCP
+night sleep,test,FXS,problem,TeCP
+sleep-onset time,test,ASD,problem,TeCP
+sleep-onset time,test,FXS,problem,TeCP
+study,test,FXS,problem,TeCP
+choline,test,fragile X,problem,TeCP
+choline,test,cognitive-behavioral impairments,problem,TeCP
+(1)H magnetic resonance spectroscopy,test,cognitive-behavioral impairments,problem,TeCP
+choline,test,FRAX,problem,TeCP
+(1)H magnetic resonance spectroscopy,test,FRAX,problem,TeCP
+Right choline/creatine,test,fragile X,problem,TeCP
+secondary outcome measures,test,FXS,problem,TeCP
+ABC-C subscales,test,FXS,problem,TeCP
+clinical global improvement scale,test,FXS,problem,TeCP
+CGI,test,FXS,problem,TeCP
+visual analog scale,test,FXS,problem,TeCP
+VAS,test,FXS,problem,TeCP
+Vineland Adaptive Behavior Scale,test,FXS,problem,TeCP
+VABS,test,FXS,problem,TeCP
+standardized checklist,test,Side effects,problem,TeCP
+complete blood count,test,Side effects,problem,TeCP
+CBC,test,Side effects,problem,TeCP
+TSH,test,Side effects,problem,TeCP
+attention span,test,FXS,problem,TeCP
+socialization skills,test,FXS,problem,TeCP
+study,test,FXS,problem,TeCP
+study,test,ADHD,problem,TeCP
+gene expression microarray analysis,test,fragile X syndrome,problem,TeCP
+gene expression microarray analysis,test,fragile X syndrome,problem,TeCP
+gene expression microarray analysis,test,fragile X syndrome,problem,TeCP
+quantitative reverse transcription polymerase chain reaction,test,fragile X syndrome,problem,TeCP
+quantitative reverse transcription polymerase chain reaction,test,fragile X syndrome,problem,TeCP
+quantitative reverse transcription polymerase chain reaction,test,fragile X syndrome,problem,TeCP
+quantitative reverse transcription polymerase chain reaction,test,fragile X,problem,TeCP
+quantitative reverse transcription polymerase chain reaction,test,fragile X,problem,TeCP
+auditory continuous performance tests,test,FXS,problem,TeCP
+CPTs,test,FXS,problem,TeCP
+CPTs,test,FXS,problem,TeCP
+CPTs,test,FXS,problem,TeCP
+CPTs,test,FXS,problem,TeCP
+response inhibition,test,FXS,problem,TeCP
+visual CPT,test,FXS,problem,TeCP
+CPT,test,FXS,problem,TeCP
+placebo-controlled clinical trial,test,disorder,problem,TeCP
+placebo-controlled clinical trial,test,fragile X syndrome,problem,TeCP
+placebo-controlled clinical trial,test,FXS,problem,TeCP
+placebo,test,FXS,problem,TeCP
+placebo,test,FXS,problem,TeCP
+study,test,FXS,problem,TeCP
+outcome measures,test,FXS,problem,TeCP
+outcome measures,test,FXS,problem,TeCP
+social cognition,test,fragile X,problem,TeCP
+social cognition,test,impairment,problem,TeCP
+IQ,test,autism,problem,TeCP
+IQ,test,impairments,problem,TeCP
+adaptive behavior,test,fragile X,problem,TeCP
+study,test,hyperactive behaviour,problem,TeCP
+study,test,FXS,problem,TeCP
+Spatial performance,test,learning disabled,problem,TeCP
+spatial performance,test,Fragile-X,problem,TeCP
+molecular methods,test,retarded,problem,TeCP
+study,test,mental retardation,problem,TeCP
+study,test,fragile X syndrome,problem,TeCP
+PCR-based,test,fragile X syndrome,problem,TeCP
+systematic screening,test,fragile X syndrome,problem,TeCP
+diagnostic scheme,test,fragile X syndrome,problem,TeCP
+PCR,test,fragile X syndrome,problem,TeCP
+Southern blotting,test,fragile X syndrome,problem,TeCP
+systematic screening,test,fragile X syndrome,problem,TeCP
+systematic screening,test,mentally retarded,problem,TeCP
+Family studies,test,autism,problem,TeCP
+association study,test,infantile autism,problem,TeCP
+collaborative study,test,fragile X,problem,TeCP
+collaborative study,test,fragile X,problem,TeCP
+collaborative study,test,fragile X,problem,TeCP
+DNA testing,test,fragile X,problem,TeCP
+molecular test,test,fragile X syndrome,problem,TeCP
+molecular test,test,causative mutation,problem,TeCP
+placebo-controlled crossover study,test,Fragile X,problem,TeCP
+placebo,test,Fragile X,problem,TeCP

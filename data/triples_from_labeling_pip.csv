@@ -1,0 +1,839 @@
+﻿entity1,entity1type,entity2,entit2type,relation
+abnormal behavior,problem,MMP-9,problem,PIP
+abnormalities,problem,autism,problem,PIP
+ADHD,problem,FXS,problem,PIP
+ADHD,problem,FXS,problem,PIP
+ADHD,problem,FXS,problem,PIP
+ADHD,problem,FXS,problem,PIP
+ADHD,problem,fragile X syndrome,problem,PIP
+ADHD,problem,FXS,problem,PIP
+ADHD-hyperactive type,problem,difficulty,problem,PIP
+ADHD-hyperactive type,problem,task time,test,PIP
+ADHD-hyperactive type,problem,response inhibition,test,PIP
+alterations,problem,fragile X syndrome,problem,PIP
+Alzheimer disease,problem,Dementia,problem,PIP
+anxiety,problem,fragile X syndrome,problem,PIP
+anxiety,problem,FXS,problem,PIP
+anxiety,problem,FXS,problem,PIP
+anxiety,problem,FXS,problem,PIP
+anxiety disorders,problem,FXS,problem,PIP
+anxiety disorders,problem,psychiatric impairments,problem,PIP
+Asperger syndrome,problem,autism,problem,PIP
+attention,problem,FXTAS,problem,PIP
+attention deficit hyperactivity disorder,problem,ADHD,problem,PIP
+attention deficit hyperactivity disorder,problem,ADHD,problem,PIP
+attention deficit hyperactivity disorder,problem,FXS,problem,PIP
+attention deficit hyperactivity disorder,problem,FXS,problem,PIP
+attention deficits,problem,abnormalities,problem,PIP
+attention deficits,problem,autism,problem,PIP
+attention-deficit/hyperactivity disorder,problem,Fragile X syndrome,problem,PIP
+attention-deficit/hyperactivity disorder,problem,FXS,problem,PIP
+attention-deficit/hyperactivity disorder,problem,Fragile X syndrome,problem,PIP
+Attentional deficits,problem,problems,problem,PIP
+Attentional deficits,problem,fra(X),problem,PIP
+Attentional deficits,problem,hyperactivity,problem,PIP
+Attentional deficits,problem,fra(X),problem,PIP
+attentional processes,problem,executive function/dysfunction,problem,PIP
+attentional processes,problem,core cognitive deficit,problem,PIP
+attentional processes,problem,FXTAS,problem,PIP
+autism,problem,developmental disability,problem,PIP
+autism,problem,Fragile X syndrome,problem,PIP
+autism,problem,FXS,problem,PIP
+autism,problem,intellectual disability,problem,PIP
+autism,problem,developmental disability,problem,PIP
+autism,problem,Fragile X syndrome,problem,PIP
+autism,problem,FXS,problem,PIP
+autism,problem,Fragile X syndrome,problem,PIP
+autism,problem,FXS,problem,PIP
+autism,problem,FXS,problem,PIP
+autism spectrum disorder,problem,ASD,problem,PIP
+autistic behaviors,problem,cognitive disorders,problem,PIP
+autistic spectrum disorder,problem,Fragile X syndrome,problem,PIP
+autistic spectrum disorder,problem,FXS,problem,PIP
+autistic spectrum disorder,problem,transcriptional silencing,problem,PIP
+autistic spectrum disorder,problem,intellectual disability,problem,PIP
+autistic spectrum disorder,problem,ASD,problem,PIP
+autistic-like symptoms,problem,Fragile X syndrome,problem,PIP
+autistic-like symptoms,problem,FXS,problem,PIP
+autistic-like symptoms,problem,Fragile X syndrome,problem,PIP
+autistic-like symptoms,problem,FXS,problem,PIP
+avoidance,problem,FXS,problem,PIP
+balance abnormalities,problem,FXTAS,problem,PIP
+balance abnormalities,problem,FXTAS,problem,PIP
+balance abnormalities,problem,FXTAS,problem,PIP
+behavior,problem,problem behaviors,problem,PIP
+behavior,problem,developmental disorders,problem,PIP
+behavior,problem,problem behaviors,problem,PIP
+behavior,problem,fragile X syndrome,problem,PIP
+behavior,problem,FXS,problem,PIP
+behavior disturbances,problem,autism,problem,PIP
+behavior disturbances,problem,autism,problem,PIP
+behavior problems,problem,fragile X syndrome,problem,PIP
+behavior problems,problem,fragile X syndrome,problem,PIP
+behavioral deficits,problem,fragile X syndrome,problem,PIP
+behavioral deficits,problem,FXS,problem,PIP
+behavioral deficits,problem,fragile X syndrome,problem,PIP
+behavioral deficits,problem,FXS,problem,PIP
+behavioral deficits,problem,fragile X syndrome,problem,PIP
+behavioral deficits,problem,FRAX,problem,PIP
+behavioral outcomes,problem,fragile X syndrome,problem,PIP
+behavioral outcomes,problem,FXS,problem,PIP
+behavioral problems,problem,parenting stress,problem,PIP
+behavioral problems,problem,parenting stress,problem,PIP
+behavioral problems,problem,Fragile X syndrome,problem,PIP
+behavioral problems,problem,FXS,problem,PIP
+behavioral problems,problem,Fragile X syndrome,problem,PIP
+behavioral problems,problem,FXS,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,Fragile X syndrome,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,impairment,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,Fragile X syndrome,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,Fragile X syndrome,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioral symptoms,problem,FXS,problem,PIP
+behavioural,problem,FXS,problem,PIP
+behavioural abnormalities,problem,FXS,problem,PIP
+behavioural abnormalities,problem,FXS,problem,PIP
+block excitotoxic,problem,glutamate,problem,PIP
+brain activity,problem,FXTAS,problem,PIP
+brain development,problem,fragile X syndrome,problem,PIP
+brain development,problem,FXS,problem,PIP
+causative mutation,problem,fragile X syndrome,problem,PIP
+causative mutation,problem,fragile X syndrome,problem,PIP
+cerebellar ataxia,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+cerebellar ataxia,problem,FXTAS,problem,PIP
+cerebellar ataxia,problem,neurodegenerative disorder,problem,PIP
+cerebellar ataxia,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+cerebellar ataxia,problem,FXTAS,problem,PIP
+cerebellar ataxia,problem,neurodegenerative disorder,problem,PIP
+cerebellar ataxia,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+cerebellar ataxia,problem,FXTAS,problem,PIP
+cerebellar ataxia,problem,neurodegenerative disorder,problem,PIP
+clinical symptoms,problem,FXTAS,problem,PIP
+cognitive decline,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+cognitive decline,problem,FXTAS,problem,PIP
+cognitive decline,problem,neurodegenerative disorder,problem,PIP
+cognitive decline,problem,FXTAS,problem,PIP
+cognitive decline,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+cognitive decline,problem,FXTAS,problem,PIP
+cognitive decline,problem,neurodegenerative disorder,problem,PIP
+cognitive decline,problem,FXTAS,problem,PIP
+cognitive decline,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+cognitive decline,problem,FXTAS,problem,PIP
+cognitive decline,problem,neurodegenerative disorder,problem,PIP
+cognitive decline,problem,FXTAS,problem,PIP
+cognitive deficits,problem,fragile X-associated tremor/ataxia syndrome,problem,PIP
+cognitive deficits,problem,FXTAS,problem,PIP
+cognitive deficits,problem,Fragile X syndrome,problem,PIP
+cognitive deficits,problem,FXS,problem,PIP
+cognitive deficits,problem,fragile X-associated tremor/ataxia syndrome,problem,PIP
+cognitive deficits,problem,FXTAS,problem,PIP
+cognitive deficits,problem,X-associated tremor/ataxia syndrome,problem,PIP
+cognitive deficits,problem,FXTAS,problem,PIP
+cognitive deficits,problem,neurodegenerative disorder,problem,PIP
+cognitive deficits,problem,Fragile X syndrome,problem,PIP
+cognitive deficits,problem,FXS,problem,PIP
+cognitive function,problem,fragile X syndrome,problem,PIP
+cognitive function,problem,FXS,problem,PIP
+cognitive functioning,problem,FXTAS,problem,PIP
+cognitive functioning,problem,FXTAS,problem,PIP
+cognitive functioning,problem,neurodegeneration,problem,PIP
+cognitive symptoms,problem,X-associated tremor/ataxia syndrome,problem,PIP
+cognitive symptoms,problem,FXTAS,problem,PIP
+cognitive-behavioral impairments,problem,Disruption,problem,PIP
+cognitive-behavioral impairments,problem,Disruption,problem,PIP
+cognitive-behavioral impairments,problem,FRAX,problem,PIP
+compulsive behavior,problem,FXS,problem,PIP
+compulsive behavior,problem,FXS,problem,PIP
+connections,problem,fragile X syndrome,problem,PIP
+connections,problem,FXS,problem,PIP
+core cognitive deficit,problem,FXTAS,problem,PIP
+core cognitive deficit,problem,FXTAS,problem,PIP
+Dementia,problem,Alzheimer disease,problem,PIP
+Dementia,problem,moya-moya disease,problem,PIP
+Dementia,problem,vascular dementia,problem,PIP
+Dementia,problem,vascular dementia,problem,PIP
+dementia,problem,Down,problem,PIP
+dementia,problem,Williams,problem,PIP
+dementia,problem,WS,problem,PIP
+dementia,problem,Fragile X syndrome,problem,PIP
+dementia,problem,FXS,problem,PIP
+Dementia,problem,DS,problem,PIP
+dementia,problem,X-associated tremor/ataxia syndrome,problem,PIP
+dementia,problem,FXTAS,problem,PIP
+dementia,problem,neurodegenerative disorder,problem,PIP
+dendritic spines,problem,cognitive functions,problem,PIP
+developmental disorders,problem,problem behaviors,problem,PIP
+diabetes,problem,PC,problem,PIP
+disabilities,problem,cognitive deficits,problem,PIP
+disabilities,problem,attention-deficit/hyperactivity disorder,problem,PIP
+disabilities,problem,autism,problem,PIP
+disabilities,problem,socio-emotional problems,problem,PIP
+disabilities,problem,Fragile X syndrome,problem,PIP
+disabilities,problem,FXS,problem,PIP
+disabilities,problem,Fragile X syndrome,problem,PIP
+disabilities,problem,FXS,problem,PIP
+disabled,problem,FXS,problem,PIP
+disabled,problem,DS,problem,PIP
+disabled,problem,WS,problem,PIP
+disabled,problem,DS,problem,PIP
+disabled,problem,FXS,problem,PIP
+disabled,problem,WS,problem,PIP
+disease,problem,mental retardation,problem,PIP
+disorder,problem,disabilities,problem,PIP
+disorder,problem,cognitive deficits,problem,PIP
+disorder,problem,attention-deficit/hyperactivity disorder,problem,PIP
+disorder,problem,autism,problem,PIP
+disorder,problem,socio-emotional problems,problem,PIP
+disorder,problem,fragile X syndrome,problem,PIP
+disorder,problem,FXS,problem,PIP
+Disruption,problem,fragile X,problem,PIP
+Disruption,problem,fragile X,problem,PIP
+Disruption,problem,mental retardation protein deficiency,problem,PIP
+Disruption,problem,FRAX,problem,PIP
+disturbed genes,problem,fragile X syndrome,problem,PIP
+Down,problem,DS,problem,PIP
+DS,problem,intellectually disabled,problem,PIP
+DS,problem,intellectually disabled,problem,PIP
+DS,problem,ID,problem,PIP
+dynamic mutations,problem,Fragile X Mental Retardation Protein,problem,PIP
+Dysregulated protein,problem,fragile X syndrome,problem,PIP
+Dysregulated protein,problem,FXS,problem,PIP
+EF,problem,fragile X syndrome,problem,PIP
+EF,problem,FXS,problem,PIP
+EF,problem,FXS,problem,PIP
+emotion regulation,problem,fragile X syndrome,problem,PIP
+emotion regulation,problem,FXS,problem,PIP
+emotion regulation,problem,executive function,problem,PIP
+emotion regulation,problem,EF,problem,PIP
+ERK,problem,FXS,problem,PIP
+ERK,problem,FXS,problem,PIP
+ERK,problem,FXS,problem,PIP
+executive function,problem,fragile X syndrome,problem,PIP
+executive function,problem,FXS,problem,PIP
+executive function/dysfunction,problem,core cognitive deficit,problem,PIP
+executive function/dysfunction,problem,FXTAS,problem,PIP
+executive function/dysfunction,problem,core cognitive deficit,problem,PIP
+executive function/dysfunction,problem,FXTAS,problem,PIP
+expansion,problem,Fragile X syndrome,problem,PIP
+expansions,problem,Mutations,problem,PIP
+expansions,problem,mental retardation,problem,PIP
+Extracellular signal-related kinase,problem,ERK,problem,PIP
+Extracellular signal-related kinase,problem,FXS,problem,PIP
+Extracellular signal-related kinase,problem,FXS,problem,PIP
+falls,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+falls,problem,FXTAS,problem,PIP
+falls,problem,neurodegenerative disorder,problem,PIP
+falls,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+falls,problem,FXTAS,problem,PIP
+falls,problem,neurodegenerative disorder,problem,PIP
+falls,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+falls,problem,FXTAS,problem,PIP
+falls,problem,neurodegenerative disorder,problem,PIP
+false discovery,problem,fragile X syndrome,problem,PIP
+FMR1,problem,silencing,problem,PIP
+FMR1,problem,FXS,problem,PIP
+FMR1 gene,problem,Fragile X syndrome,problem,PIP
+FMR1 gene,problem,FXS,problem,PIP
+FMR1 gene,problem,fragile X syndrome,problem,PIP
+FMR1 genes,problem,FXS,problem,PIP
+FMR1 protein,problem,mGluR5 signaling,problem,PIP
+FMR1 protein,problem,fragile X syndrome,problem,PIP
+FMR1 protein,problem,FXS,problem,PIP
+FMR1 protein,problem,mGluR5 signaling,problem,PIP
+FMR1 protein,problem,behavioral deficits,problem,PIP
+FMR1 protein,problem,fragile X syndrome,problem,PIP
+FMR1 protein,problem,FXS,problem,PIP
+FMR1 protein,problem,Fragile X syndrome,problem,PIP
+FMR1 protein,problem,FXS,problem,PIP
+FMR1 protein,problem,neurodevelopmental disorder,problem,PIP
+FMRP,problem,fragile X,problem,PIP
+FMRP,problem,matrix metallo-proteinase-9 activity,problem,PIP
+FMRP,problem,MMP-9,problem,PIP
+FMRP,problem,mental retardation protein,problem,PIP
+FMRP,problem,matrix metallo-proteinase-9 activity,problem,PIP
+FMRP,problem,MMP-9,problem,PIP
+FMRP,problem,Fragile X syndrome,problem,PIP
+FMRP,problem,FXS,problem,PIP
+FMRP,problem,schizophrenia,problem,PIP
+FMRP,problem,schizophrenia,problem,PIP
+FMRP,problem,schizophrenia,problem,PIP
+FMRP,problem,schizophrenia,problem,PIP
+FMRP,problem,Fragile X syndrome,problem,PIP
+FMRP,problem,FXS,problem,PIP
+FMRP,problem,neurodevelopmental disorder,problem,PIP
+FMRP,problem,schizophrenia,problem,PIP
+FMRP,problem,pathogenesis,problem,PIP
+FMRP,problem,schizophrenia,problem,PIP
+FMRP,problem,Fragile X syndrome,problem,PIP
+FMRP,problem,FXS,problem,PIP
+FMRP,problem,neurodevelopmental disorder,problem,PIP
+FMRP,problem,matrix metallo-proteinase-9 activity,problem,PIP
+FMRP,problem,MMP-9,problem,PIP
+fra(x,problem,Fragile X,problem,PIP
+fra(X),problem,disorder,problem,PIP
+fra(X) positive,problem,X-linked mental retardation,problem,PIP
+fra(X) positive,problem,XLMR,problem,PIP
+fra(X) positive,problem,X-linked mental retardation,problem,PIP
+fra(X) positive,problem,XLMR,problem,PIP
+fragile X,problem,fragile X,problem,PIP
+fragile X,problem,fragile X,problem,PIP
+fragile X,problem,fragile X,problem,PIP
+fragile X,problem,disease,problem,PIP
+fragile X,problem,FMRP,problem,PIP
+fragile X,problem,matrix metallo-proteinase-9 activity,problem,PIP
+fragile X,problem,MMP-9,problem,PIP
+fragile X,problem,mental retardation protein function,test,PIP
+fragile X,problem,mental retardation protein function,test,PIP
+fragile X,problem,mental retardation protein deficiency,problem,PIP
+fragile X,problem,cognitive-behavioral impairments,problem,PIP
+fragile X,problem,ASD,problem,PIP
+fragile X,problem,ASD,problem,PIP
+fragile X,problem,mental retardation protein deficiency,problem,PIP
+fragile X,problem,cognitive-behavioral impairments,problem,PIP
+fragile X,problem,disrupts regulation,problem,PIP
+fragile X,problem,neurodevelopmental disorder,problem,PIP
+fragile X,problem,IQ,test,PIP
+fragile X,problem,premature ovarian failure,problem,PIP
+fragile X,problem,disease,problem,PIP
+Fragile X Mental Retardation Protein,problem,Fragile X syndrome,problem,PIP
+Fragile X Mental Retardation Protein,problem,FXS,problem,PIP
+Fragile X Mental Retardation Protein,problem,FMRP,problem,PIP
+Fragile X Mental Retardation Protein,problem,FMRP,problem,PIP
+Fragile X Mental Retardation Protein,problem,schizophrenia,problem,PIP
+Fragile X Mental Retardation Protein,problem,schizophrenia,problem,PIP
+fragile X mental retardation-1,problem,FMR1,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,intellectual disability,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,cognitive function,problem,PIP
+fragile X syndrome,problem,behavioral outcomes,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,problem behaviors,problem,PIP
+fragile X syndrome,problem,aggression,problem,PIP
+fragile X syndrome,problem,self-injury,problem,PIP
+fragile X syndrome,problem,impairment,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,intellectual disability,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,intellectual disability,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,autism spectrum disorder,problem,PIP
+fragile X syndrome,problem,ASD,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,developmental disability,problem,PIP
+Fragile X syndrome,problem,autism,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,intellectual disability,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,mental retardation,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,developmental disability,problem,PIP
+Fragile X syndrome,problem,autism,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,X-linked condition,problem,PIP
+Fragile X syndrome,problem,intellectual disability,problem,PIP
+Fragile X syndrome,problem,behavioral problems,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,disorder,problem,PIP
+Fragile X syndrome,problem,disabilities,problem,PIP
+Fragile X syndrome,problem,cognitive deficits,problem,PIP
+Fragile X syndrome,problem,attention-deficit/hyperactivity disorder,problem,PIP
+Fragile X syndrome,problem,autism,problem,PIP
+Fragile X syndrome,problem,socio-emotional problems,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,mental retardation,problem,PIP
+Fragile X syndrome,problem,intellectual disability,problem,PIP
+Fragile X syndrome,problem,autistic spectrum disorder,problem,PIP
+fragile X syndrome,problem,intellectual disability,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,intellectual disability,problem,PIP
+Fragile X syndrome,problem,autism,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+Fragile X Syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,neurodevelopmental disorder,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,developmental disability,problem,PIP
+Fragile X syndrome,problem,autism,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,intellectual disability,problem,PIP
+Fragile X syndrome,problem,mental retardation,problem,PIP
+fragile X syndrome,problem,disturbed genes,problem,PIP
+fragile X syndrome,problem,disturbed genes,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+Fragile X Syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,autism,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,neurobehavioral function,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,autistic spectrum disorder,problem,PIP
+fragile X syndrome,problem,ASD,problem,PIP
+fragile X syndrome,problem,behavioral deficits,problem,PIP
+fragile X syndrome,problem,disrupts regulation,problem,PIP
+fragile X syndrome,problem,Attention deficit hyperactivity disorder,problem,PIP
+Fragile X syndrome,problem,mental retardation,problem,PIP
+Fragile X syndrome,problem,fragile X,problem,PIP
+fragile X syndrome,problem,Autism,problem,PIP
+fragile X syndrome,problem,autism,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+Fragile X syndrome,problem,neurodevelopmental disorder,problem,PIP
+Fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,problem,problem,PIP
+fragile X syndrome,problem,FXS,problem,PIP
+fragile X syndrome,problem,disease,problem,PIP
+fragile X syndrome,problem,mental retardation,problem,PIP
+fragile X syndrome,problem,mental retardation,problem,PIP
+fragile X syndrome,problem,mentally retarded,problem,PIP
+Fragile X-associated tremor/ataxia syndrome,problem,FXTAS,problem,PIP
+Fragile X-associated tremor/ataxia syndrome,problem,neurodegenerative disorder,problem,PIP
+Fragile X-associated tremor/ataxia syndrome,problem,FXTAS,problem,PIP
+Fragile X-associated tremor/ataxia syndrome,problem,neurodegenerative disorder,problem,PIP
+fragile X-associated tremor/ataxia syndrome,problem,FXTAS,problem,PIP
+fragile X-associated tremor/ataxia syndrome,problem,neurodegenerative disorder,problem,PIP
+Fragile X-associated tremor/ataxia syndrome,problem,FXTAS,problem,PIP
+Fragile X-associated tremor/ataxia syndrome,problem,neurodegenerative disorder,problem,PIP
+fragile X-associated tremor/ataxia syndrome,problem,neurodegenerative disorder,problem,PIP
+Fragile X-associated tremor/ataxia syndrome,problem,neurodegenerative disorder,problem,PIP
+Fragile X-associated tremor/ataxia syndrome,problem,neurodegenerative disorder,problem,PIP
+Fragile-X syndrome,problem,FXS,problem,PIP
+Fragile-X syndrome,problem,FXS,problem,PIP
+FRAX,problem,Disruption,problem,PIP
+FRAX,problem,cognitive-behavioral impairments,problem,PIP
+FRAX,problem,behavioral deficits,problem,PIP
+FRAX,problem,genetic disorders,problem,PIP
+FXS,problem,intellectual disability,problem,PIP
+FXS,problem,dynamic mutations,problem,PIP
+FXS,problem,cognitive function,problem,PIP
+FXS,problem,behavioral outcomes,problem,PIP
+FXS,problem,problem behaviors,problem,PIP
+FXS,problem,aggression,problem,PIP
+FXS,problem,self-injury,problem,PIP
+FXS,problem,FXS,problem,PIP
+FXS,problem,behavior,problem,PIP
+FXS,problem,problem behaviors,problem,PIP
+FXS,problem,problem behaviors,problem,PIP
+FXS,problem,problem behaviors,problem,PIP
+FXS,problem,FXS,problem,PIP
+FXS,problem,cognition,problem,PIP
+FXS,problem,FXS,problem,PIP
+FXS,problem,anxiety,problem,PIP
+FXS,problem,intellectually disabled,problem,PIP
+FXS,problem,intellectually disabled,problem,PIP
+FXS,problem,intellectual disability,problem,PIP
+FXS,problem,autism spectrum disorder,problem,PIP
+FXS,problem,ASD,problem,PIP
+FXS,problem,developmental disability,problem,PIP
+FXS,problem,intellectual disability,problem,PIP
+FXS,problem,mental retardation,problem,PIP
+FXS,problem,attention deficit hyperactivity disorder,problem,PIP
+FXS,problem,ADHD,problem,PIP
+FXS,problem,developmental disability,problem,PIP
+FXS,problem,irritable behavior,problem,PIP
+FXS,problem,aggression,problem,PIP
+FXS,problem,self-injury,problem,PIP
+FXS,problem,tantrums,problem,PIP
+FXS,problem,X-linked condition,problem,PIP
+FXS,problem,intellectual disability,problem,PIP
+FXS,problem,behavioral problems,problem,PIP
+FXS,problem,disorder,problem,PIP
+FXS,problem,disabilities,problem,PIP
+FXS,problem,cognitive deficits,problem,PIP
+FXS,problem,autism,problem,PIP
+FXS,problem,socio-emotional problems,problem,PIP
+FXS,problem,mental retardation,problem,PIP
+FXS,problem,methylation,treatment,PIP
+FXS,problem,intellectual disability,problem,PIP
+FXS,problem,autistic spectrum disorder,problem,PIP
+FXS,problem,intellectual disability,problem,PIP
+FXS,problem,intellectually impaired,problem,PIP
+FXS,problem,intellectual disability,problem,PIP
+FXS,problem,autism,problem,PIP
+FXS,problem,neurodevelopmental disorder,problem,PIP
+FXS,problem,developmental disability,problem,PIP
+FXS,problem,autism,problem,PIP
+FXS,problem,developmental disability,problem,PIP
+FXS,problem,rCPS,problem,PIP
+FXS,problem,intellectual disability,problem,PIP
+FXS,problem,declines,problem,PIP
+FXS,problem,declines,problem,PIP
+FXS,problem,performance,test,PIP
+FXS,problem,FXS,problem,PIP
+FXS,problem,autism,problem,PIP
+FXS,problem,imbalance,problem,PIP
+FXS,problem,glutamate,problem,PIP
+FXS,problem,GABA,problem,PIP
+FXS,problem,ASD,problem,PIP
+FXS,problem,ASD,problem,PIP
+FXS,problem,ASD,problem,PIP
+FXS,problem,ASD,problem,PIP
+FXS,problem,ASD,problem,PIP
+FXS,problem,disrupts regulation,problem,PIP
+FXS,problem,neural defect,problem,PIP
+FXS,problem,Attention deficit hyperactivity disorder,problem,PIP
+FXS,problem,disabilities,problem,PIP
+FXS,problem,Autism,problem,PIP
+FXS,problem,autism,problem,PIP
+FXS,problem,autism,problem,PIP
+FXS,problem,deficits,problem,PIP
+FXS,problem,problem,problem,PIP
+FXS,problem,disease,problem,PIP
+FXS,problem,mental retardation,problem,PIP
+FXTAS,problem,neurodegenerative disorder,problem,PIP
+FXTAS,problem,neurodegenerative disorder,problem,PIP
+FXTAS,problem,neurodegenerative disorder,problem,PIP
+FXTAS,problem,neurodegenerative disorder,problem,PIP
+FXTAS,problem,thyroid problems,problem,PIP
+FXTAS,problem,diabetes,problem,PIP
+FXTAS,problem,neurodegenerative disorder,problem,PIP
+FXTAS,problem,neurodegenerative disorder,problem,PIP
+FXTAS,problem,neurodegenerative disorder,problem,PIP
+FXTAS,problem,neurodegenerative disorder,problem,PIP
+FXTAS,problem,diabetes,problem,PIP
+FXTAS,problem,hypertension,problem,PIP
+FXTAS,problem,thyroid problems,problem,PIP
+FXTAS,problem,diabetes,problem,PIP
+GABA metabolism,problem,FXTAS,problem,PIP
+GABAA receptor,problem,fragile X syndrome,problem,PIP
+GABAA receptor,problem,FXS,problem,PIP
+GABAA receptor,problem,intellectual disability,problem,PIP
+GABAA receptor,problem,fragile X,problem,PIP
+GABAA receptor,problem,fragile X,problem,PIP
+GABAA receptor,problem,fragile X,problem,PIP
+GABAA receptor,problem,fragile X,problem,PIP
+GABAA receptor,problem,fragile X syndrome,problem,PIP
+GABAA receptors,problem,fragile X,problem,PIP
+GABAA receptors,problem,fragile X,problem,PIP
+global deficit,problem,Fragile-X,problem,PIP
+global deficit,problem,Fragile-X,problem,PIP
+Glutamatergic dysregulation,problem,fragile X syndrome,problem,PIP
+Glutamatergic dysregulation,problem,FXS,problem,PIP
+Glutamatergic dysregulation,problem,fragile X syndrome,problem,PIP
+Glutamatergic dysregulation,problem,FXS,problem,PIP
+Glutamatergic dysregulation,problem,fragile X syndrome,problem,PIP
+Glutamatergic dysregulation,problem,FXS,problem,PIP
+glutamatergic neurotransmission,treatment,pathogenesis,problem,PIP
+glutamatergic neurotransmission,treatment,schizophrenia,problem,PIP
+hallucinations,problem,adverse events,problem,PIP
+hallucinations,problem,psychiatric disorders,problem,PIP
+histone deacetylase,problem,HDAC,problem,PIP
+histone deacetylase,problem,DNA demethylating agent,treatment,PIP
+Hyperactive behavior,problem,Fragile X syndrome,problem,PIP
+Hyperactive behavior,problem,FXS,problem,PIP
+hyperactive behaviour,problem,FXS,problem,PIP
+hyperactive-impulsive behavior,problem,ADHD,problem,PIP
+hyperactivity,problem,problems,problem,PIP
+hyperactivity,problem,fra(X),problem,PIP
+hyperactivity,problem,fra(X),problem,PIP
+hyperactivity,problem,FXS,problem,PIP
+Hyperactivity,problem,problem,problem,PIP
+Hyperactivity,problem,fragile X syndrome,problem,PIP
+Hyperactivity,problem,FXS,problem,PIP
+Hyperactivity,problem,disease,problem,PIP
+Hyperactivity,problem,mental retardation,problem,PIP
+hyperactivity,problem,fragile X,problem,PIP
+hyperarousal,problem,FXS,problem,PIP
+hyperkinesis,problem,FXS,problem,PIP
+hypermethylation,problem,transcriptional silencing,problem,PIP
+ID,problem,intellectually disabled,problem,PIP
+ID,problem,dementia,problem,PIP
+ID,problem,dementia,problem,PIP
+ID,problem,dementia,problem,PIP
+ID,problem,dementia,problem,PIP
+ID,problem,dementia,problem,PIP
+ID,problem,intellectually disabled,problem,PIP
+impaired,problem,FMRP,problem,PIP
+impairment,problem,Fragile X syndrome,problem,PIP
+impairment,problem,FXS,problem,PIP
+impairment,problem,deficiencies,problem,PIP
+impairments,problem,abnormalities,problem,PIP
+impairments,problem,autism,problem,PIP
+impairments,problem,fragile X,problem,PIP
+infantile autism,problem,fragile-X syndrome,problem,PIP
+intellectual disability,problem,Fragile X syndrome,problem,PIP
+intellectual disability,problem,transcriptional silencing,problem,PIP
+Intellectual disability,problem,ID,problem,PIP
+intellectual disability,problem,FXS,problem,PIP
+intellectual disability,problem,FXS,problem,PIP
+intellectual disability,problem,Fragile X syndrome,problem,PIP
+intellectual disability,problem,FXS,problem,PIP
+intellectually disabled,problem,FXS,problem,PIP
+intellectually disabled,problem,DS,problem,PIP
+intellectually disabled,problem,WS,problem,PIP
+intellectually disabled,problem,DS,problem,PIP
+intellectually disabled,problem,FXS,problem,PIP
+intellectually disabled,problem,WS,problem,PIP
+irritability,problem,problem behavior,problem,PIP
+irritability,problem,fragile X syndrome,problem,PIP
+irritability,problem,problem behavior,problem,PIP
+irritable behavior,problem,FXS,problem,PIP
+irritable behavior,problem,aggression,problem,PIP
+irritable behavior,problem,self-injury,problem,PIP
+irritable behavior,problem,tantrums,problem,PIP
+irritable behavior,problem,FXS,problem,PIP
+language,problem,FXS,problem,PIP
+language,problem,intellectual disability,problem,PIP
+learning disabilities,problem,Fragile X syndrome,problem,PIP
+learning disabilities,problem,FXS,problem,PIP
+learning disabled,problem,young Down's syndrome,problem,PIP
+lymphocytic bioenergetics,problem,FXTAS,problem,PIP
+markers,problem,infantile autism,problem,PIP
+matrix metallo-proteinase-9 activity,problem,fragile X,problem,PIP
+matrix metallo-proteinase-9 activity,problem,MMP-9,problem,PIP
+matrix metallo-proteinase-9 activity,problem,fragile X,problem,PIP
+mental impairment,problem,fra(X,problem,PIP
+mental impairment,problem,fra(X,problem,PIP
+mental retardation,problem,fragile X syndrome,problem,PIP
+mental retardation,problem,autism,problem,PIP
+mental retardation,problem,methylation,treatment,PIP
+mental retardation,problem,CGG,problem,PIP
+mental retardation,problem,Fragile X syndrome,problem,PIP
+mental retardation,problem,FXS,problem,PIP
+mental retardation,problem,fragile X,problem,PIP
+mental retardation,problem,problem,problem,PIP
+mental retardation,problem,autism,problem,PIP
+mental retardation,problem,MR,problem,PIP
+mental retardation protein,problem,matrix metallo-proteinase-9 activity,problem,PIP
+mental retardation protein,problem,MMP-9,problem,PIP
+mental retardation protein,problem,matrix metallo-proteinase-9 activity,problem,PIP
+mental retardation protein,problem,MMP-9,problem,PIP
+mental retardation protein deficiency,problem,Disruption,problem,PIP
+mental retardation protein deficiency,problem,cognitive-behavioral impairments,problem,PIP
+mental retardation protein deficiency,problem,cognitive-behavioral impairments,problem,PIP
+mental retardation protein deficiency,problem,FRAX,problem,PIP
+mental retardation protein function,test,fragile X,problem,PIP
+mental retardation protein function,test,fragile X,problem,PIP
+mentally retarded,problem,fragile X syndrome,problem,PIP
+metabotropic glutamate receptor 5,problem,Fragile X syndrome,problem,PIP
+metabotropic glutamate receptor 5,problem,FXS,problem,PIP
+mGluR5,problem,FXS,problem,PIP
+mGluR5 activity,problem,FXS,problem,PIP
+mGluR5 activity,problem,eye gaze,problem,PIP
+mGluR5 signaling,problem,behavioral deficits,problem,PIP
+mGluR5 signaling,problem,fragile X syndrome,problem,PIP
+mGluR5 signaling,problem,FXS,problem,PIP
+mGluR5 signaling,problem,behavioral deficits,problem,PIP
+mGluR5 signaling,problem,fragile X syndrome,problem,PIP
+mGluR5 signaling,problem,FXS,problem,PIP
+MMP-9,problem,FXS,problem,PIP
+MMP-9,problem,FXS,problem,PIP
+MMP-9,problem,FXS,problem,PIP
+MMP-9,problem,FXS,problem,PIP
+MMP-9,problem,FXS,problem,PIP
+MMP-9,problem,FXS,problem,PIP
+MMP-9,problem,FXS,problem,PIP
+MMP-9,problem,FXS,problem,PIP
+MMP-9,problem,fragile X,problem,PIP
+molecular cloning,problem,fragile X syndrome,problem,PIP
+molecular cloning,problem,causative mutation,problem,PIP
+motor function,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+motor function,problem,FXTAS,problem,PIP
+motor function,problem,neurodegenerative disorder,problem,PIP
+motor function,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+motor function,problem,FXTAS,problem,PIP
+motor function,problem,neurodegenerative disorder,problem,PIP
+moya-moya disease,problem,Dementia,problem,PIP
+MR,problem,mental retardation,problem,PIP
+MR,problem,MR,problem,PIP
+mutation,problem,young Fragile-X syndrome,problem,PIP
+mutation,problem,young Fragile-X syndrome,problem,PIP
+mutation,problem,mental retardation,problem,PIP
+mutation,problem,FRAXA-positive,problem,PIP
+mutation,problem,mutation,problem,PIP
+mutation,problem,MR,problem,PIP
+mutation,problem,MR,problem,PIP
+mutation,problem,hypermethylation,problem,PIP
+mutation,problem,FMR1,problem,PIP
+mutation,problem,transcriptional silencing,problem,PIP
+Mutations,problem,mental retardation,problem,PIP
+N400 word,problem,Brain activity,problem,PIP
+nervous system injury,problem,FXTAS,problem,PIP
+neural defect,problem,FXS,problem,PIP
+neural defects,problem,behavioural abnormalities,problem,PIP
+neural defects,problem,behavioural abnormalities,problem,PIP
+neurobehavioral function,problem,fragile X syndrome,problem,PIP
+neurodegeneration,problem,FXTAS,problem,PIP
+neurodegenerative diseases,problem,FXTAS,problem,PIP
+neurodevelopmental disorders,problem,problem behavior,problem,PIP
+neurogenesis,problem,autism,problem,PIP
+neurological symptoms,problem,Fragile X syndrome,problem,PIP
+neurological symptoms,problem,FXS,problem,PIP
+neuropathies,problem,FXTAS,problem,PIP
+neurotransmitter systems,problem,Fragile X syndrome,problem,PIP
+overrepresentation,problem,mental retardation protein function,test,PIP
+overrepresentation,problem,fragile X,problem,PIP
+overrepresentation,problem,mental retardation protein function,test,PIP
+parenting stress,problem,behavioral problems,problem,PIP
+pathogenesis,problem,schizophrenia,problem,PIP
+PC,problem,immune-mediated disorders,problem,PIP
+PC,problem,hypertension,problem,PIP
+PC,problem,thyroid problems,problem,PIP
+PC,problem,FXTAS,problem,PIP
+PC,problem,diabetes,problem,PIP
+PC,problem,FXTAS,problem,PIP
+pharmacometabolomics,problem,FXTAS,problem,PIP
+positive,problem,mutation,problem,PIP
+PPI,test,impairments,problem,PIP
+PPI,test,fragile X,problem,PIP
+premutation,problem,FRAXA-positive,problem,PIP
+problem behavior,problem,neurodevelopmental disorders,problem,PIP
+problem behavior,problem,neurodevelopmental disorders,problem,PIP
+problem behaviors,problem,aggression,problem,PIP
+problem behaviors,problem,self-injury,problem,PIP
+problem behaviors,problem,fragile X syndrome,problem,PIP
+problem behaviors,problem,FXS,problem,PIP
+problem behaviors,problem,FXS,problem,PIP
+problem behaviors,problem,fragile X syndrome,problem,PIP
+problem behaviors,problem,FXS,problem,PIP
+problem behaviors,problem,FXS,problem,PIP
+problem behaviors,problem,FXS,problem,PIP
+problem behaviors,problem,FXS,problem,PIP
+problem behaviors,problem,developmental disorders,problem,PIP
+problem behaviors,problem,fragile X syndrome,problem,PIP
+problem behaviors,problem,FXS,problem,PIP
+problem behaviors,problem,FXS,problem,PIP
+problem behaviors,problem,fragile X syndrome,problem,PIP
+problem behaviors,problem,FXS,problem,PIP
+problem behaviors,problem,FXS,problem,PIP
+problem behaviors,problem,FXS,problem,PIP
+problem behaviors,problem,FXS,problem,PIP
+problems,problem,fra(X),problem,PIP
+psychiatric disorders,problem,adverse events,problem,PIP
+psychiatric impairments,problem,FXS,problem,PIP
+psychosis,problem,adverse events,problem,PIP
+psychosis,problem,psychiatric disorders,problem,PIP
+pupil size,problem,FXS,problem,PIP
+rCPS,problem,FXS,problem,PIP
+rCPS,problem,FXS,problem,PIP
+rCPS,problem,FXS,problem,PIP
+rCPS,problem,FXS,problem,PIP
+rCPS,problem,FXS,problem,PIP
+rCPS,problem,FXS,problem,PIP
+Right choline/creatine,problem,fragile X,problem,PIP
+schizophrenia,problem,FMRP,problem,PIP
+self-injury,problem,fragile X syndrome,problem,PIP
+self-injury,problem,FXS,problem,PIP
+self-injury,problem,problem behaviors,problem,PIP
+self-injury,problem,FXS,problem,PIP
+self-injury,problem,fragile X syndrome,problem,PIP
+self-injury,problem,FXS,problem,PIP
+self-injury,problem,problem behaviors,problem,PIP
+self-injury,problem,FXS,problem,PIP
+serotonergic pathway,problem,FXS,problem,PIP
+serotonergic pathway,problem,FXS,problem,PIP
+serotonergic pathway,problem,FXS,problem,PIP
+serotonin synthesis,problem,autism,problem,PIP
+side effects,problem,FXS,problem,PIP
+side effects,problem,FXS,problem,PIP
+side effects,problem,polyuria/polydipsia,problem,PIP
+silencing,problem,up-regulation,problem,PIP
+sleep problems,problem,autistic spectrum disorder,problem,PIP
+sleep problems,problem,ASD,problem,PIP
+sleep problems,problem,fragile X syndrome,problem,PIP
+sleep problems,problem,autistic spectrum disorder,problem,PIP
+sleep problems,problem,ASD,problem,PIP
+sleep problems,problem,fragile X syndrome,problem,PIP
+sleep problems,problem,ASD,problem,PIP
+sleep problems,problem,FXS,problem,PIP
+sleep problems,problem,autism,problem,PIP
+sleep problems,problem,fragile X syndrome,problem,PIP
+sleep problems,problem,FXS,problem,PIP
+social anxiety,problem,FXS,problem,PIP
+social anxiety,problem,FXS,problem,PIP
+Social avoidance,problem,fragile X syndrome,problem,PIP
+Social avoidance,problem,FXS,problem,PIP
+social avoidance,problem,FXS,problem,PIP
+social avoidance,problem,developmental disability,problem,PIP
+social avoidance,problem,FXS,problem,PIP
+social avoidance,problem,DD,problem,PIP
+social avoidance,problem,FXS,problem,PIP
+social function,problem,fragile X syndrome,problem,PIP
+social gaze,problem,FXS,problem,PIP
+socio-emotional problems,problem,Fragile X syndrome,problem,PIP
+socio-emotional problems,problem,FXS,problem,PIP
+socio-emotional problems,problem,Fragile X syndrome,problem,PIP
+socio-emotional problems,problem,FXS,problem,PIP
+spatial deficit,problem,Fragile-X,problem,PIP
+spatial deficit,problem,Fragile-X,problem,PIP
+symptom,problem,fragile X syndrome,problem,PIP
+symptoms,problem,FXS,problem,PIP
+synapse abnormalities,problem,FXS,problem,PIP
+synapse abnormalities,problem,FXS,problem,PIP
+synapse abnormalities,problem,FXS,problem,PIP
+synaptic,problem,fragile X syndrome,problem,PIP
+synaptic,problem,FXS,problem,PIP
+synaptic,problem,FMRP,problem,PIP
+synaptic abnormalities,problem,fragile X,problem,PIP
+synaptic upregulated protein,problem,cognitive functions,problem,PIP
+tantrums,problem,FXS,problem,PIP
+task time,test,FXS,problem,PIP
+thyroid problems,problem,PC,problem,PIP
+transcriptional silencing,problem,Fragile X syndrome,problem,PIP
+transcriptional silencing,problem,FXS,problem,PIP
+tremor,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+tremor,problem,FXTAS,problem,PIP
+tremor,problem,neurodegenerative disorder,problem,PIP
+tremor,problem,FXTAS,problem,PIP
+tremor,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+tremor,problem,FXTAS,problem,PIP
+tremor,problem,neurodegenerative disorder,problem,PIP
+tremor,problem,FXTAS,problem,PIP
+tremor,problem,Fragile X-associated tremor/ataxia syndrome,problem,PIP
+tremor,problem,FXTAS,problem,PIP
+tremor,problem,neurodegenerative disorder,problem,PIP
+tremor,problem,cerebellar ataxia,problem,PIP
+tremor,problem,FXTAS,problem,PIP
+up-regulation,problem,metabotropic glutamate receptor 5,problem,PIP
+vascular dementia,problem,dementia,problem,PIP
+vascular dementia,problem,dementia,problem,PIP
+vascular dementia,problem,Dementia,problem,PIP
+vascular dementia,problem,Dementia,problem,PIP
+Williams,problem,WS,problem,PIP
+Williams,problem,WS,problem,PIP
+working memory,problem,FXTAS,problem,PIP
+WS,problem,intellectually disabled,problem,PIP
+WS,problem,intellectually disabled,problem,PIP
+X-associated tremor ataxia syndrome,problem,PC,problem,PIP
+X-associated tremor ataxia syndrome,problem,FXTAS,problem,PIP
+X-associated tremor/ataxia syndrome,problem,neurodegenerative disorder,problem,PIP
+X-associated tremor/ataxia syndrome,problem,FXTAS,problem,PIP
+X-linked condition,problem,intellectual disability,problem,PIP
+X-linked condition,problem,behavioral problems,problem,PIP
+X-linked FMR1 gene,problem,Fragile X syndrome,problem,PIP
+X-linked FMR1 gene,problem,FXS,problem,PIP
+X-linked FMR1 gene,problem,autistic spectrum disorder,problem,PIP
+X-linked mental retardation,problem,XLMR,problem,PIP
+XLMR,problem,X-linked mental retardation,problem,PIP

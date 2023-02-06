@@ -1,0 +1,129 @@
+﻿entity1,entity1type,entity2,entit2type,relation
+tasks,test,spatial deficit,problem,TeRP
+positive,problem,mutation,problem,TeRP
+diagnosis,test,mental retardation,problem,TeRP
+diagnosis,test,fragile X syndrome,problem,TeRP
+systematic screening,test,fragile X syndrome,problem,TeRP
+diagnostic scheme,test,fragile X syndrome,problem,TeRP
+PCR,test,fragile X syndrome,problem,TeRP
+Southern blotting,test,fragile X syndrome,problem,TeRP
+diagnosis,test,fragile X syndrome,problem,TeRP
+Clinical examination,test,mental retardation,problem,TeRP
+systematic screening,test,fragile X syndrome,problem,TeRP
+diagnosis,test,fragile X syndrome,problem,TeRP
+genetic counseling,test,fragile X syndrome,problem,TeRP
+non-radioisotope PCR technique,test,fragile X syndrome,problem,TeRP
+DNA testing,test,fragile X,problem,TeRP
+DNA testing,test,disease,problem,TeRP
+demonstration,test,molecular cloning,problem,TeRP
+cytogenetic testing,test,fragile X syndrome,problem,TeRP
+molecular test,test,fragile X syndrome,problem,TeRP
+demonstration,test,causative mutation,problem,TeRP
+cytogenetic result,test,mutation,problem,TeRP
+Post hoc analysis,test,behavioral symptoms,problem,TeRP
+Post hoc analysis,test,FXS,problem,TeRP
+mavoglurant,treatment,adverse events,problem,TeRP
+fly models,test,fragile X mutation,problem,TeRP
+PET,test,fragile X,problem,TeRP
+dynamic mutations,problem,Fragile X syndrome,problem,TeRP
+synaptic upregulated protein,problem,cognitive functions,test,TeRP
+Aberrant Behavior Checklist-Community (ABC-C,test,problem behavior,problem,TeRP
+Treatment Acceptability Rating Form-Revised,test,problem behavior,problem,TeRP
+TARF-R,test,problem behavior,problem,TeRP
+Parenting Stress Index,test,problem behavior,problem,TeRP
+(PSI-4).Intention-to-treat analyses,test,problem behavior,problem,TeRP
+ABC-C,test,problem behavior,problem,TeRP
+Aberrant Behavior Checklist-Community (ABC-C,test,irritability,problem,TeRP
+(PSI-4).Intention-to-treat analyses,test,irritability,problem,TeRP
+ABC-C,test,irritability,problem,TeRP
+analytical model,treatment,fragile X syndrome,problem,TeRP
+evaluation,test,fragile X syndrome,problem,TeRP
+ADAMS,test,Depression,problem,TeRP
+assessed,test,behavior,problem,TeRP
+Autistic Descriptors,test,behavior,problem,TeRP
+Vineland Adaptive Behavior Scale,test,behavior,problem,TeRP
+Aberrant Behavior Checklist-Community (ABC-C,test,problem behavior,problem,TeRP
+ADAMS,test,behavioral symptoms,problem,TeRP
+FXS,problem,double-blind,test,TeRP
+FXS,problem,crossover study,test,TeRP
+in vitro,test,lymphoblastoid cells,problem,TeRP
+in vitro,test,FXS,problem,TeRP
+in vitro,test,FMR1,problem,TeRP
+in vitro,test,histone hyperacetylating,problem,TeRP
+brain imaging,test,Dementia,problem,TeRP
+brain imaging,test,Alzheimer disease,problem,TeRP
+brain imaging,test,moya-moya disease,problem,TeRP
+brain imaging,test,vascular dementia,problem,TeRP
+brain imaging,test,vascular dementia,problem,TeRP
+brain imaging,test,dementia,problem,TeRP
+neuropsychological test scores,test,executive function,problem,TeRP
+neuropsychological test scores,test,psychological symptoms,problem,TeRP
+PET,test,GABAA receptor,problem,TeRP
+N400 repetition,test,FXTAS,problem,TeRP
+standardized molecular biology test,test,FXS,problem,TeRP
+Wechsler Intelligence Scale,test,FXS,problem,TeRP
+behavioral rating scales,test,Hyperactive behavior,problem,TeRP
+behavioral rating scales,test,FXS,problem,TeRP
+markerless motion analysis method,test,hyperkinesis,problem,TeRP
+markerless motion analysis method,test,FXS,problem,TeRP
+behavioral rating scale scores,test,FXS,problem,TeRP
+Vineland II-Socialization raw score,test,social impairment,problem,TeRP
+ABC-Social Avoidance scale,test,social impairment,problem,TeRP
+fluorescent PCR,treatment,fragile X mental retardation-1,problem,TeRP
+changes,test,fragile X syndrome,problem,TeRP
+probe,test,fragile X syndrome,problem,TeRP
+differentially,test,overrepresentation,problem,TeRP
+differentially,test,fragile X,problem,TeRP
+differentially,test,fragile X,problem,TeRP
+overrepresentation,problem,fragile X,problem,TeRP
+DNA confirmation,test,FXS,problem,TeRP
+CHAT,test,FXS,problem,TeRP
+Denver Criteria,test,autism,problem,TeRP
+CX516,treatment,allergic rash,problem,TeRP
+CX516,treatment,substantial rash,problem,TeRP
+ERPs,test,FXS,problem,TeRP
+Clinical Global Impression Scale-Improvement,test,anxiety,problem,TeRP
+DNA testing,test,ASD,problem,TeRP
+diagnostic criteria,test,ASD,problem,TeRP
+diagnostic criteria,test,FXS,problem,TeRP
+diagnostic criteria,test,FXS,problem,TeRP
+diagnostic criteria,test,ASD,problem,TeRP
+diagnostic criteria,test,fragile X,problem,TeRP
+TSH,test,side effects,problem,TeRP
+Conners' Global Index,test,hyperactivity,problem,TeRP
+Vineland Adaptive Behavior Scale,test,hyperactivity,problem,TeRP
+diagnostic criteria,test,ADHD-hyperactive type,problem,TeRP
+Risk criteria,test,Autism,problem,TeRP
+Risk criteria,test,autism,problem,TeRP
+Checklist,test,Autism,problem,TeRP
+Checklist,test,autism,problem,TeRP
+CHAT,test,Autism,problem,TeRP
+modified risk criteria,test,Autism,problem,TeRP
+Denver Criteria,test,Autism,problem,TeRP
+CHAT,test,autism,problem,TeRP
+modified risk criteria,test,fragile X syndrome,problem,TeRP
+modified risk criteria,test,FXS,problem,TeRP
+modified risk criteria,test,autism,problem,TeRP
+Denver Criteria,test,autism,problem,TeRP
+DNA confirmation,test,FXS,problem,TeRP
+CHAT,test,autism,problem,TeRP
+CHAT,test,autism,problem,TeRP
+Denver Criteria,test,autism,problem,TeRP
+CHAT,test,autism,problem,TeRP
+CHAT,test,FXS,problem,TeRP
+Denver Criteria,test,autism,problem,TeRP
+social cognition,test,impairment,problem,TeRP
+social cognition,test,deficiencies,problem,TeRP
+IQ,test,abnormalities,problem,TeRP
+adaptive behavior,test,abnormalities,problem,TeRP
+adaptive behavior,test,impairments,problem,TeRP
+deficits,problem,prepulse inhibition,test,TeRP
+deficits,problem,PPI,test,TeRP
+spatial performance,test,global deficit,problem,TeRP
+visuo-constructive component,test,spatial deficit,problem,TeRP
+pilot screening survey,test,retarded,problem,TeRP
+Clinical examination,test,mental retardation,problem,TeRP
+non-radioisotope PCR technique,test,fragile X syndrome,problem,TeRP
+DNA testing,test,disease,problem,TeRP
+cytogenetic testing,test,fragile X syndrome,problem,TeRP
+cytogenetic testing,test,causative mutation,problem,TeRP

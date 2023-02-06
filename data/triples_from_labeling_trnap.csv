@@ -1,0 +1,10 @@
+﻿entity1,entity1type,entity2,entit2type,relation
+basimglurant,treatment,psychiatric disorders,problem,TrNAP
+basimglurant,treatment,psychosis,problem,TrNAP
+aripiprazole,treatment,adverse events,problem,TrNAP
+basimglurant,treatment,adverse events,problem,TrNAP
+basimglurant,treatment,psychiatric disorders,problem,TrNAP
+basimglurant,treatment,hallucinations,problem,TrNAP
+basimglurant,treatment,psychosis,problem,TrNAP
+aripiprazole,treatment,adverse events,problem,TrNAP
+akathisia,problem,mild drooling,problem,TrNAP
