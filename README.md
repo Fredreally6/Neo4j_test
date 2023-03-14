@@ -12,6 +12,7 @@ To run this project, please have these requiremnets installed:
 1. Start Neo4j server
     - For MacOS or Linux, use command line "neo4j start"
     - For Windows, use command line "neo4j.bat console"
+    
     Open a browser with "http://localhost:7474", log in neo4j browser
 
 2. Run test.py
