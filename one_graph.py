@@ -5,7 +5,7 @@ graph = Graph("http://localhost:7474", auth = ('neo4j','password'), name = 'neo4
 node_matcher = NodeMatcher(graph)
 relation_matcher = RelationshipMatcher(graph)
 
-def Onetable(a, b):
+def OneTable(a, b):
     # Match two nodes in entity1
     nodeA = node_matcher.match("entity1").where(name = a).first()
     nodeB = node_matcher.match("entity1").where(name = b).first()
@@ -45,4 +45,6 @@ def Onetable(a, b):
     print(pair_result)
 
 
-Onetable("A", "B")
+OneTable("A", "B")
+
+
