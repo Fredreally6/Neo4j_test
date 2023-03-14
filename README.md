@@ -15,4 +15,5 @@ To run this project, please have these requiremnets installed:
     Open a browser with "http://localhost:7474", log in neo4j browser
 
 2. Run test.py
-    It will create some nodes and simple relations between the them
+    - It will create some nodes and simple relations between the them
+    - Now the database is ready for operations
