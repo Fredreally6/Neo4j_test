@@ -1,7 +1,13 @@
 import pandas as pd
-import os
+import glob
 
+listing = glob.glob(r'./data/rawdata/*.csv')
 # Data preprocessing - Merge all csv file
-for inputfile in os.listdir(r'./data'):
-    data = pd.read_csv('data/'+inputfile)
-    data.to_csv('data/data.csv', mode='a', index=False, header=None)
+rawdata = pd.DataFrame()
+
+for inputfile in listing:
+    data = pd.read_csv(inputfile)
+    rawdata = pd.concat([rawdata, data])
+
+rawdata.to_csv('data/data.csv', mode='a', index=False)
+
