@@ -7,37 +7,66 @@ graphB = Graph("http://localhost:7473", name = 'testb')
 graphA.delete_all()
 graphB.delete_all()
 
-data = pd.read_csv('data/data1.csv')
+dataA = pd.read_csv('data/dataA.csv')
+dataB = pd.read_csv('data/dataB.csv')
 
-entity1 = data.iloc[:,0]
-rela = data.iloc[:,1]
-entity2 = data.iloc[:,2]
+entity1_A = dataA.iloc[:,0]
+rela_A = dataA.iloc[:,1]
+entity2_A = dataA.iloc[:,2]
+
+entity1_B = dataB.iloc[:,0]
+rela_B = dataB.iloc[:,1]
+entity2_B = dataB.iloc[:,2]
 
 label = [] 
-for i in range(0,data.shape[1]):
-    label.append(data.columns[i])
+for i in range(0,dataA.shape[1]):
+    label.append(dataA.columns[i])
 
+node_matcher_A = NodeMatcher(graphA)
+node_matcher_B = NodeMatcher(graphB)
 
-for i in range(0, data.shape[0]):
-    if entity1[i]=='A':
-        graph_new = graphA
+nodeA = Node(label[0], name = 'A')
+nodeB = Node(label[0], name = 'B')
+
+graphA.create(nodeA)
+graphB.create(nodeB)
+
+for i in range(0, dataA.shape[0]):
+
+    if(entity1_A[i]=='A'):
+        node1 = node_matcher_A.match(label[0]).where(name = 'A').first()
+    elif(graphA.nodes.match(label[2], name=entity1_A[i]).count() != 0):
+        node1 = node_matcher_A.match(label[2]).where(name = entity1_A[i]).first()
     else:
-        graph_new = graphB
-
-    node_matcher = NodeMatcher(graph_new)
-
-    if(graph_new.nodes.match(label[0], name=entity1[i]).count() == 0):
-        node1 = Node(label[0], name = entity1[i])
-        graph_new.create(node1)
-    else:
-        node1 = node_matcher.match(label[0]).where(name = entity1[i]).first()
-
-    if(graph_new.nodes.match(label[2], name=entity2[i]).count() == 0):
-        node2 = Node(label[2], name = entity2[i])
-        graph_new.create(node2)
-    else:
-        node2 = node_matcher.match(label[2]).where(name = entity2[i]).first()
+        node1 = Node(label[0], name = entity1_A[i])
+        graphA.create(node1)
     
-    relation1 = Relationship(node1,rela[i],node2)
+    if(graphA.nodes.match(label[2], name=entity2_A[i]).count() == 0):
+        node2 = Node(label[2], name = entity2_A[i])
+        graphA.create(node2)
+    else:
+        node2 = node_matcher_A.match(label[2]).where(name = entity2_A[i]).first()
     
-    graph_new.create(relation1)
+    relation1 = Relationship(node1,rela_A[i],node2)
+    
+    graphA.create(relation1)
+
+for i in range(0, dataB.shape[0]):
+
+    if(entity1_B[i]=='B'):
+        node1 = node_matcher_B.match(label[0]).where(name = 'B').first()
+    elif(graphB.nodes.match(label[2], name=entity1_B[i]).count() != 0):
+        node1 = node_matcher_B.match(label[2]).where(name = entity1_B[i]).first()
+    else:
+        node1 = Node(label[0], name = entity1_B[i])
+        graphB.create(node1)
+    
+    if(graphB.nodes.match(label[2], name=entity2_B[i]).count() == 0):
+        node2 = Node(label[2], name = entity2_B[i])
+        graphB.create(node2)
+    else:
+        node2 = node_matcher_B.match(label[2]).where(name = entity2_B[i]).first()
+    
+    relation1 = Relationship(node1,rela_B[i],node2)
+    
+    graphB.create(relation1)

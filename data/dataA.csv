@@ -1,0 +1,11 @@
+entity1,relation,entity2
+A,R1,X1
+A,R2,X2
+A,R3,X3
+A,R4,X4
+A,R5,X5
+X4,R6,X6
+X4,R5,X5
+X1,R8,X4
+X1,R7,X7
+X4,R6,X6
