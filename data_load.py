@@ -1,7 +1,7 @@
 import pandas as pd
 from py2neo import Graph, Node, Relationship,NodeMatcher
 
-test_graph = Graph("http://localhost:7474", auth = ('neo4j','password'), name = 'neo4j')
+test_graph = Graph("http://localhost:7474", auth = ('neo4j','password'), name = 'test')
 
 test_graph.delete_all()
 

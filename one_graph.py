@@ -1,6 +1,6 @@
 from py2neo import Graph, NodeMatcher
 
-graph = Graph("http://localhost:7474", auth = ('neo4j','password'), name = 'neo4j')
+graph = Graph("http://localhost:7474", auth = ('neo4j','password'), name = 'test')
 
 node_matcher = NodeMatcher(graph)
 
@@ -77,8 +77,7 @@ def OneGraph(a, b, level):
     # print(similarity)
     return similarity
 
-level = 0
-
-print(OneGraph("A", "B", level))
+sim = OneGraph("A","B",0)
+print("Similarity between A and B is %.3f" %(sim))
 
 
