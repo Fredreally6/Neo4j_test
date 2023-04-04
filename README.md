@@ -4,9 +4,9 @@ Get familiar with Neo4j and Cypher Query Language
 
 This is a project for practicing Neo4j with Python
 
-To run this project, please have these requiremnets installed:
-    - For Neo4j: JDK 17.x and Neo4j 5.4.0 with APOC library
-    - For Python: Python 3.10 with py2neo 2021.2.3 and pandas
+To run this project, please have these requiremnets installed
+    - Neo4j: JDK 17.x and Neo4j 5.4.0 with APOC library
+    - Python: Python 3.10 with py2neo 2021.2.3 and pandas
 
 
 1. Start Neo4j server
