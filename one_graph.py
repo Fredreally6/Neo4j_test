@@ -4,7 +4,9 @@ graph = Graph("http://localhost:7474", auth = ('neo4j','password'), name = 'neo4
 
 node_matcher = NodeMatcher(graph)
 
-def OneGraph(a, b):
+alpha = [1,0.8,0.5,0.1]
+
+def OneGraph(a, b, level):
 
     # Match two nodes in entity1
     if(a == 'A'):
@@ -39,9 +41,9 @@ def OneGraph(a, b):
     # print(result_list_B)
 
     # For iteration. If one of the next two nodes have no other child relations, return
-    if(len(result_list_A)==0 or len(result_list_B)==0):
-        return
-
+    # if(len(result_list_A)==0 or len(result_list_B)==0):
+        # return
+    
     # Compare with two lists to find the relations
     abssame_count = 0
     pair_result = []
@@ -52,16 +54,31 @@ def OneGraph(a, b):
                     abssame_count += 1
                 else:
                     pair_result.append((i[2], j[2]))
-
+    
     print("*****************************")
-    print("Comparing "+a+" and "+b)   
+    print("Comparing "+a+" and "+b+" on level "+str(level))
     print("Number of Absolutely Same Relation: "+str(abssame_count))
     print(pair_result)
+    print(" ")
 
-    for it in pair_result:
-        OneGraph(it[0],it[1])
     
+    if len(pair_result)==0 or level >= 3:
+        # print(abssame_count)
+        return abssame_count
+    
+    tmp = 0
+    for it in pair_result:
+        tmp += OneGraph(it[0],it[1],level+1)
 
-OneGraph("A", "B")
+
+    similarity = abssame_count + alpha[level+1]*tmp
+    print(similarity,abssame_count, alpha[level+1],tmp,level)
+   
+    # print(similarity)
+    return similarity
+
+level = 0
+
+print(OneGraph("A", "B", level))
 
 
