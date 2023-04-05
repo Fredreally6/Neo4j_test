@@ -72,7 +72,7 @@ def OneGraph(a, b, level):
 
 
     similarity = abssame_count + alpha[level+1]*tmp
-    print(similarity,abssame_count, alpha[level+1],tmp,level)
+    # print(similarity,abssame_count, alpha[level+1],tmp,level)
    
     # print(similarity)
     return similarity
