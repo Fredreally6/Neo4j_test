@@ -46,6 +46,10 @@ def TwoGraph(a, b, level):
     # if(len(result_list_A)==0 or len(result_list_B)==0):
     #     return
     
+    length = 1
+    if(level == 0):
+        length = max(len(result_list_A),len(result_list_B))
+
     # Compare with two lists to find the relations
     abssame_count = 0
     pair_result = []
@@ -72,8 +76,8 @@ def TwoGraph(a, b, level):
 
     similarity = abssame_count + alpha[level+1]*tmp
 
-    print(similarity)
-    return similarity
+    # print(similarity)
+    return similarity/length
 
 
 sim = TwoGraph("A", "B", 0)

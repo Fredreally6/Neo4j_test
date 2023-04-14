@@ -39,6 +39,7 @@ def OneGraph(a, b, level):
         rela_type = type(r).__name__
         result_list_B.append((start_node, rela_type, end_node))
     
+    length = 1
     if(level == 0):
         length = max(len(result_list_A),len(result_list_B))
 
@@ -56,7 +57,7 @@ def OneGraph(a, b, level):
                     abssame_count += 1
                 else:
                     pair_result.append((i[2], j[2]))
-    
+
     print("*****************************")
     print("Comparing "+a+" and "+b+" on level "+str(level))
     print("Number of Absolutely Same Relation: "+str(abssame_count))
@@ -74,10 +75,10 @@ def OneGraph(a, b, level):
 
 
     similarity = (abssame_count + alpha[level+1]*tmp)
-    print(similarity,abssame_count, alpha[level+1],tmp,level)
+    # print(similarity,abssame_count, alpha[level+1],tmp,level)
    
     # print(similarity)
-    return similarity
+    return similarity/length
 
 sim = OneGraph("A","B",0)
 print("Similarity between A and B is %.3f" %(sim))
