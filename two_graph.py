@@ -1,7 +1,7 @@
 from py2neo import Graph, NodeMatcher
 
 graphA = Graph("http://localhost:7474", auth = ('neo4j','password'), name = 'test')
-graphB = Graph("http://localhost:7473", name = 'testb')
+graphB = Graph("http://localhost:7475", name = 'testb')
 
 alpha = [1, 0.8, 0.5, 0.1]
 
