@@ -38,7 +38,9 @@ def OneGraph(a, b, level):
         end_node = r.end_node['name']
         rela_type = type(r).__name__
         result_list_B.append((start_node, rela_type, end_node))
-    # print(result_list_B)
+    
+    if(level == 0):
+        length = max(len(result_list_A),len(result_list_B))
 
     # For iteration. If one of the next two nodes have no other child relations, return
     # if(len(result_list_A)==0 or len(result_list_B)==0):
@@ -71,8 +73,8 @@ def OneGraph(a, b, level):
         tmp += OneGraph(it[0],it[1],level+1)
 
 
-    similarity = abssame_count + alpha[level+1]*tmp
-    # print(similarity,abssame_count, alpha[level+1],tmp,level)
+    similarity = (abssame_count + alpha[level+1]*tmp)
+    print(similarity,abssame_count, alpha[level+1],tmp,level)
    
     # print(similarity)
     return similarity

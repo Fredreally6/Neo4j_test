@@ -72,6 +72,7 @@ def TwoGraph(a, b, level):
 
     similarity = abssame_count + alpha[level+1]*tmp
 
+    print(similarity)
     return similarity
 
 
