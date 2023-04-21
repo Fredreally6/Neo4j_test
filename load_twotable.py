@@ -2,7 +2,7 @@ import pandas as pd
 from py2neo import Graph, Node, Relationship,NodeMatcher
 
 graphA = Graph("http://localhost:7474", auth = ('neo4j','password'), name = 'test')
-graphB = Graph("http://localhost:7473", name = 'testb')
+graphB = Graph("http://localhost:7475", name = 'testb')
 
 graphA.delete_all()
 graphB.delete_all()
