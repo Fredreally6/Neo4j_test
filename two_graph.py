@@ -67,17 +67,22 @@ def TwoGraph(a, b, level):
     print(pair_result)
     print(" ")
 
-    if len(pair_result)==0 or level >=3:
-        return abssame_count
+    length = max(len(result_list_A),len(result_list_B))
 
+    if len(pair_result)==0 or level >= 3:
+        if length == 0: 
+            return 0
+        else: 
+            return abssame_count/length
+        
     tmp = 0
     for it in pair_result:
         tmp += TwoGraph(it[0], it[1], level+1)
 
-    similarity = abssame_count + alpha[level+1]*tmp
+    similarity = (abssame_count + alpha[level+1]*tmp)/length
 
     # print(similarity)
-    return similarity/length
+    return similarity
 
 
 sim = TwoGraph("A", "B", 0)

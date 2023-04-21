@@ -39,9 +39,9 @@ def OneGraph(a, b, level):
         rela_type = type(r).__name__
         result_list_B.append((start_node, rela_type, end_node))
     
-    length = 1
-    if(level == 0):
-        length = max(len(result_list_A),len(result_list_B))
+    # length = 1
+    # if(level == 0):
+    #     length = max(len(result_list_A),len(result_list_B))
 
     # For iteration. If one of the next two nodes have no other child relations, return
     # if(len(result_list_A)==0 or len(result_list_B)==0):
@@ -64,21 +64,23 @@ def OneGraph(a, b, level):
     print(pair_result)
     print(" ")
 
+    length = max(len(result_list_A),len(result_list_B))
     
     if len(pair_result)==0 or level >= 3:
-        # print(abssame_count)
-        return abssame_count
+        if length == 0: 
+            return 0
+        else: 
+            return abssame_count/length
     
     tmp = 0
     for it in pair_result:
         tmp += OneGraph(it[0],it[1],level+1)
 
-
-    similarity = (abssame_count + alpha[level+1]*tmp)
-    # print(similarity,abssame_count, alpha[level+1],tmp,level)
+    similarity = (abssame_count + alpha[level+1]*tmp)/length
+    # print(similarity,abssame_count, length, alpha[level+1],tmp,level)
    
     # print(similarity)
-    return similarity/length
+    return similarity
 
 sim = OneGraph("A","B",0)
 print("Similarity between A and B is %.3f" %(sim))

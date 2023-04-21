@@ -5,7 +5,7 @@ test_graph = Graph("http://localhost:7474", auth = ('neo4j','password'), name = 
 
 test_graph.delete_all()
 
-data = pd.read_csv('data/data1.csv')
+data = pd.read_csv('data/data_test.csv')
 
 entity1 = data.iloc[:,0]
 rela = data.iloc[:,1]
