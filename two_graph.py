@@ -6,11 +6,8 @@ graphB = Graph("http://localhost:7475", name = 'testb')
 alpha = [1, 0.8, 0.5, 0.1]
 
 def TwoGraph(a, b, level):
-
-    # Match two nodes in entity1
-    nodeA = NodeMatcher(graphA).match("entity1").where(name = a).first()
-    nodeB = NodeMatcher(graphB).match("entity1").where(name = b).first()
-
+    
+    # Match two nodes
     if(a == 'A'):
         nodeA = NodeMatcher(graphA).match("entity1").where(name = 'A').first()
     else:
@@ -41,14 +38,6 @@ def TwoGraph(a, b, level):
         rela_type = type(rb).__name__
         result_list_B.append((start_node, rela_type, end_node))
     # print(result_list_B)
-
-    # If one of the two nodes have no other relations, return
-    # if(len(result_list_A)==0 or len(result_list_B)==0):
-    #     return
-    
-    length = 1
-    if(level == 0):
-        length = max(len(result_list_A),len(result_list_B))
 
     # Compare with two lists to find the relations
     abssame_count = 0

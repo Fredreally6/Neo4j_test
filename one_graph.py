@@ -8,7 +8,7 @@ alpha = [1,0.8,0.5,0.1]
 
 def OneGraph(a, b, level):
 
-    # Match two nodes in entity1
+    # Match two nodes
     if(a == 'A'):
         nodeA = node_matcher.match("entity1").where(name = a).first()
     else:
@@ -39,14 +39,6 @@ def OneGraph(a, b, level):
         rela_type = type(r).__name__
         result_list_B.append((start_node, rela_type, end_node))
     
-    # length = 1
-    # if(level == 0):
-    #     length = max(len(result_list_A),len(result_list_B))
-
-    # For iteration. If one of the next two nodes have no other child relations, return
-    # if(len(result_list_A)==0 or len(result_list_B)==0):
-        # return
-    
     # Compare with two lists to find the relations
     abssame_count = 0
     pair_result = []
@@ -65,7 +57,7 @@ def OneGraph(a, b, level):
     print(" ")
 
     length = max(len(result_list_A),len(result_list_B))
-    
+
     if len(pair_result)==0 or level >= 3:
         if length == 0: 
             return 0
