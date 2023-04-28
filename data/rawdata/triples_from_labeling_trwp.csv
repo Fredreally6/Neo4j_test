@@ -1,7 +1,0 @@
-﻿entity1,entity1type,entity2,entit2type,relation
-psychotropic medication,treatment,deteriorated,problem,TrWP
-STX209,treatment,side effects,problem,TrWP
-minocycline,treatment,side effects,problem,TrWP
-minocycline,treatment,diarrhea,problem,TrWP
-CX516,treatment,allergic rash,problem,TrWP
-CX516,treatment,substantial rash,problem,TrWP
