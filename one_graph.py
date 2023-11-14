@@ -75,6 +75,6 @@ def OneGraph(a, b, level):
     return similarity
 
 sim = OneGraph("A","B",0)
-print("Similarity between A and B is %.3f" %(sim))
+print("Similarity between A and B is %.4f" %(sim))
 
 
