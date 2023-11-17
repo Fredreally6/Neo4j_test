@@ -18,3 +18,7 @@ To run this project, please have these requiremnets installed
 2. Run test.py
     - It will create some nodes and simple relations between them
     - Now the database is ready for operations
+
+
+Update on Nov 16th:
+    - Py2neo has come to an end. This project may migrate to a new one with a new library "neomodel"
