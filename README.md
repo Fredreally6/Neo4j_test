@@ -2,7 +2,7 @@
 
 Get familiar with Neo4j and Cypher Query Language
 
-This is a project for practicing Neo4j with Python
+This is a testing project for practicing Neo4j with Python
 
 To run this project, please have these requiremnets installed
     - Neo4j: JDK 17.x and Neo4j 5.4.0 with APOC library
@@ -16,5 +16,5 @@ To run this project, please have these requiremnets installed
     Open a browser with "http://localhost:7474", log in neo4j browser
 
 2. Run test.py
-    - It will create some nodes and simple relations between the them
+    - It will create some nodes and simple relations between them
     - Now the database is ready for operations
